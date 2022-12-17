@@ -1,0 +1,14 @@
+[formatter.dprint]
+command = "dprint"
+options = ["fmt"]
+includes = [
+  "*.ts",
+  "*.tsx",
+  "*.js",
+  "*.jsx",
+  "*.cjs",
+  "*.mjs",
+  "*.json",
+  "*.md",
+  "*.toml",
+]

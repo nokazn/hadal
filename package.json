@@ -1,0 +1,13 @@
+{
+  "name": "hadal",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
