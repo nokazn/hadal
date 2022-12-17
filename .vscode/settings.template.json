@@ -8,6 +8,12 @@
     "dist": true
   },
   "typescript.tsc.autoDetect": "off",
+
   "editor.defaultFormatter": "dprint.dprint",
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+
+  "[nix]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "kamadorueda.alejandra"
+  }
 }
