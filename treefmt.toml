@@ -12,3 +12,7 @@ includes = [
   "*.md",
   "*.toml",
 ]
+
+[formatter.alejandra]
+command = "alejandra"
+includes = ["*.nix"]
